@@ -1,0 +1,12 @@
+sistema/ApplicationStartUp.java
+ sistema.ApplicationStartUp
+sistema/repository/PessoaRepository.java
+ sistema.repository.PessoaRepository
+sistema/model/Pessoa.java
+ sistema.model.Pessoa
+sistema/controller/PessoaController.java
+ sistema.controller.PessoaController
+sistema/service/PessoaService.java
+ sistema.service.PessoaService
+sistema/seguranca/SecurityConfig.java
+ sistema.seguranca.SecurityConfig
